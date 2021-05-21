@@ -45,7 +45,7 @@ public class App {
         String _choose;
         Scanner chooseFL = new Scanner(System.in);
         _choose = chooseFL.nextLine();
-        if(_choose.equals(fr1.freelancerID)){
+        if(_choose.equals(fr1.freelancerID)){   
             System.out.println("yeyy");
         } else {
             System.out.println("emm");
